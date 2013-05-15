@@ -6,6 +6,7 @@
 	premier ajout
 	<p> jojojo</p>
 	<p> jijijiji</p>
+	<p>une phraseeeee</p>
 </div>
 <div class="main_home">
 	<?php
