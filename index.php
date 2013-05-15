@@ -6,6 +6,7 @@
 	premier ajout
 	<p> jojojo</p>
 	<p> accueil</p>
+	<p> contact</p>
 </div>
 <div class="main_home">
 	<?php
