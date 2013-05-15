@@ -4,6 +4,8 @@
 ?>
 <div> 
 	premier ajout
+	<p> jojojo</p>
+	<p> jijijiji</p>
 </div>
 <div class="main_home">
 	<?php
