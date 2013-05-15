@@ -29,10 +29,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,500,300' rel='stylesheet'>
 		<title><?=$_s['header']['title_'.$page]?></title>
 		<meta charset="utf-8">
-		<meta name="description" content="<?=$_s['header']['meta_desc_'.$page]?>">
-		<!--[if lt IE 9]>
-		<script src="assets/js/lib/html5shiv.js"></script>
-		<![endif]-->
+		<meta name="description" content="<?=$_s['header']['meta_desc_'.$page]?>">		
 		<link rel="stylesheet" href="assets/styles/css/normalize.css">
 		<link rel="stylesheet" href="assets/styles/css/iconfonts.css">
 		<link rel="stylesheet" href="assets/styles/css/main.css">

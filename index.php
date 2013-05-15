@@ -5,8 +5,13 @@
 <div> 
 	premier ajout
 	<p> jojojo</p>
+<<<<<<< HEAD
 	<p> accueil</p>
 	<p> contact</p>
+=======
+	<p> jijijiji</p>
+	<p>une phraseeeee</p>
+>>>>>>> sansIE8
 </div>
 <div class="main_home">
 	<?php
